@@ -1,6 +1,8 @@
 rencana-tugas_kodam
 
 -ngingx
+ *database
 -apache
+*konfigurasinya
 -konfiguras
 -blog
