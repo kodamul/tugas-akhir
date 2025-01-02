@@ -4,5 +4,6 @@ rencana-tugas_kodam
  *database
 -apache
 *konfigurasinya
+-bind9
 -konfiguras
 -blog
