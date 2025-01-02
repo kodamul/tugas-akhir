@@ -9,3 +9,4 @@ dhcp100
 *kodam.ptk
 -konfiguras
 -blog
+-vim
