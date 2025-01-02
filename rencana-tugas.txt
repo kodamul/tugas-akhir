@@ -3,7 +3,9 @@ rencana-tugas_kodam
 -ngingx
  *database
 -apache
+dhcp100
 *konfigurasinya
 -bind9
+*kodam.ptk
 -konfiguras
 -blog
